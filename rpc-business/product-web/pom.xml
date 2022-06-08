@@ -25,5 +25,10 @@
             <artifactId>rpc-client</artifactId>
             <version>1.0.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.lding</groupId>
+            <artifactId>rpc-registry</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 </project>
